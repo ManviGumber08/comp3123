@@ -1,0 +1,22 @@
+{
+  "name": "101412099_101412099_comp3123",
+  "version": "1.0.0",
+  "description": "Labtest1",
+  "main": "Q3.remove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManviGumber08/comp3123.git"
+  },
+  "keywords": [
+    "labtest1"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManviGumber08/comp3123/issues"
+  },
+  "homepage": "https://github.com/ManviGumber08/comp3123#readme"
+}
